@@ -1,0 +1,2 @@
+http://www.printmyfolders.com/Home/PDFBox-Tutorial
+http://kickjava.com/src/org/pdfbox/examples/util/ExtractTextByArea.java.htm
